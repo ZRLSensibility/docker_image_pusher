@@ -1,3 +1,1 @@
-nginx
-redis
-mysql
+redis:7.0.14
