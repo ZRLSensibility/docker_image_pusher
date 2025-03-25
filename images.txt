@@ -1,1 +1,4 @@
-redis:7.0
+redis:7.0.5
+emqx:5.7.2
+nginx:1.27.4
+mysql:8.0
